@@ -1,3 +1,3 @@
-Deleting All files in a folder except some
-Bash script
-Automate the common repetitive task on computer
+- Deleting All files in a folder except some
+- Bash shell script
+- Automate the common repetitive task on computer
